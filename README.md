@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# To do list React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What you can do?
+
+You can add a task, edit it or delete it. In addition, you will be able to see and hide the completed tasks.
 
 ## Available Scripts
 
